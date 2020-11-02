@@ -1,2 +1,3 @@
 # UsefulGodot3Scripts
 Just some standalone scripts to speed up development
+I am hoping to create these scripts for beginner users or for very fast prototyping...
